@@ -25,7 +25,7 @@
         "firebase-admin": "^11.8.0",
         "firebase-functions": "^4.3.1",
         "jsonwebtoken": "^9.0.0",
-        "mongoose": "^6.0.13",
+        "mongoose": "^6.12.0",
         "morgan": "^1.10.0",
         "multer": "^1.4.3",
         "nodemailer": "^6.9.3",
